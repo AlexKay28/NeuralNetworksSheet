@@ -20,6 +20,16 @@ Cheat sheet with info about Neural Networks
   * Adam => http://arxiv.org/abs/1412.6980
   * Network in Network => http://arxiv.org/abs/1312.4400 
   * Dilated convolutions => https://arxiv.org/abs/1511.07122
+  * LeNet => http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf
+  * AlexNet => Winner 2012, http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
+  * ZFNet => Winner 2013, http://arxiv.org/abs/1311.2901
+  * GoogleNet => Winner 2014, http://arxiv.org/abs/1409.4842
+  * Inception-v4 => http://arxiv.org/abs/1602.07261
+  * VGGNet => http://www.robots.ox.ac.uk/~vgg/research/very_deep/
+  * Resnet => Winner 2015, http://arxiv.org/abs/1512.03385
+  * Batch  normalization => http://arxiv.org/abs/1502.03167
+  * Kaiming He et al. Identity Mappings in Deep Residual Networks => https://arxiv.org/abs/1603.05027
+  
   
 ## Competitions
 
