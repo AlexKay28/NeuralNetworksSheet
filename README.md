@@ -18,7 +18,7 @@ Cheat sheet with info about Neural Networks
   * Inception Net => http://arxiv.org/pdf/1512.00567v3.pdf
   * Dropout => http://papers.nips.cc/paper/4882-dropout-training-as-adaptive-regularization.pdf
   * Adam => http://arxiv.org/abs/1412.6980
-  
+  * Network in Network => http://arxiv.org/abs/1312.4400 
   
 ## Competitions
 
