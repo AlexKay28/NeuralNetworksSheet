@@ -19,6 +19,7 @@ Cheat sheet with info about Neural Networks
   * Dropout => http://papers.nips.cc/paper/4882-dropout-training-as-adaptive-regularization.pdf
   * Adam => http://arxiv.org/abs/1412.6980
   * Network in Network => http://arxiv.org/abs/1312.4400 
+  * Dilated convolutions => https://arxiv.org/abs/1511.07122
   
 ## Competitions
 
