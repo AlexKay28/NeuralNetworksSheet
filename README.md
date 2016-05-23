@@ -29,6 +29,14 @@ Cheat sheet with info about Neural Networks
   * Resnet => Winner 2015, http://arxiv.org/abs/1512.03385
   * Batch  normalization => http://arxiv.org/abs/1502.03167
   * Kaiming He et al. Identity Mappings in Deep Residual Networks => https://arxiv.org/abs/1603.05027
+  * Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps => http://arxiv.org/abs/1312.6034
+  * Visualizing and Understanding Convolutional Networks => http://arxiv.org/abs/1311.2901
+  * Striving for Simplicity: The All Convolutional Net => http://arxiv.org/abs/1412.6806
+  * Understanding Deep Image Representations by Inverting Them => http://arxiv.org/abs/1412.0035
+  * Do ConvNets Learn Correspondence? => http://papers.nips.cc/paper/5420-do-convnets-learn-correspondence.pdf
+  * ImageNet Large Scale Visual Recognition Challenge => http://arxiv.org/abs/1409.0575
+  * Explaining and Harnessing Adversarial Examples => http://arxiv.org/abs/1412.6572
+  * 
   
   
 ## Competitions
