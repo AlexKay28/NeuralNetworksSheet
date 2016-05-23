@@ -36,7 +36,9 @@ Cheat sheet with info about Neural Networks
   * Do ConvNets Learn Correspondence? => http://papers.nips.cc/paper/5420-do-convnets-learn-correspondence.pdf
   * ImageNet Large Scale Visual Recognition Challenge => http://arxiv.org/abs/1409.0575
   * Explaining and Harnessing Adversarial Examples => http://arxiv.org/abs/1412.6572
-  * 
+  * CNN Features off-the-shelf: an Astounding Baseline for Recognition => http://arxiv.org/abs/1403.6382
+  * DeCAF => http://arxiv.org/abs/1310.1531
+  * How transferable are features in deep neural networks? => http://arxiv.org/abs/1411.1792
   
   
 ## Competitions
