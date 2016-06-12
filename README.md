@@ -39,6 +39,7 @@ Cheat sheet with info about Neural Networks
   * CNN Features off-the-shelf: an Astounding Baseline for Recognition => http://arxiv.org/abs/1403.6382
   * DeCAF => http://arxiv.org/abs/1310.1531
   * How transferable are features in deep neural networks? => http://arxiv.org/abs/1411.1792
+  * A guide to convolution arithmetic for deep learning => http://arxiv.org/abs/1603.07285
   
   
 ## Competitions
