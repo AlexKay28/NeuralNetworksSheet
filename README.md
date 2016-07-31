@@ -50,12 +50,20 @@ Cheat sheet with info about Neural Networks
   
   
 ## Competitions
+
+### Kaggle
+
  * State Farm Distracted Driver Detection => https://www.kaggle.com/c/state-farm-distracted-driver-detection
  * Ultrasound Nerve Segmentation => https://www.kaggle.com/c/ultrasound-nerve-segmentation
  * Yelp Restaurant Photo Classification => https://www.kaggle.com/c/yelp-restaurant-photo-classification
  * Grasp-and-Lift EEG Detection => https://www.kaggle.com/c/grasp-and-lift-eeg-detection
  * Diabetic Retinopathy Detection => https://www.kaggle.com/c/diabetic-retinopathy-detection
-  
+
+### ImageNet
+ * http://image-net.org/challenges/LSVRC/2016/index
+ 
+### ISBI
+ * http://biomedicalimaging.org/2016/?page_id=416
  
 ## Tutorials
  * Theano => http://www.deeplearning.net/tutorial/mlp.html
