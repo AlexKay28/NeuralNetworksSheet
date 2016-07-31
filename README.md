@@ -16,6 +16,7 @@ Cheat sheet with info about Neural Networks
  * U-Net: Convolutional Networks for Biomedical Image Segmentation => http://arxiv.org/abs/1505.04597
 
 ### Other
+ * Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis => http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.8494&rep=rep1&type=pdf
  * AdaGrad => http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf
  * FaceNet => http://arxiv.org/pdf/1503.03832v3.pdf
  * Face localization => https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf
