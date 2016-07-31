@@ -12,7 +12,7 @@ Cheat sheet with info about Neural Networks
 
 ## Papers
 ### Segmentation
- * Fully Convolutional Networks for Semantic Segmentation => http://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
+ * Fully Convolutional Networks for Semantic Segmentation => https://arxiv.org/abs/1411.4038
  * U-Net: Convolutional Networks for Biomedical Image Segmentation => http://arxiv.org/abs/1505.04597
 
 ### Other
