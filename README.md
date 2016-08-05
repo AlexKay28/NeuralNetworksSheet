@@ -75,4 +75,6 @@ Cheat sheet with info about Neural Networks
  * Keras => http://keras.io/
  * Neon => http://neon.nervanasys.com/docs/latest/index.html
  * Caffe => http://caffe.berkeleyvision.org/
+ * TensorFlow => https://www.tensorflow.org/
+ * Theano => http://deeplearning.net/software/theano/
 
