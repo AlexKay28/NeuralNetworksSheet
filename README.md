@@ -16,6 +16,7 @@ Cheat sheet with info about Neural Networks
  * U-Net: Convolutional Networks for Biomedical Image Segmentation => http://arxiv.org/abs/1505.04597
 
 ### Other
+ * Distilling the Knowledge in a Neural Network => https://arxiv.org/abs/1503.02531
  * Systematic evaluation of CNN advances on the ImageNet => http://arxiv.org/abs/1606.02228
  * Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis => http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.8494&rep=rep1&type=pdf
  * AdaGrad => http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf
