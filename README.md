@@ -16,6 +16,8 @@ Cheat sheet with info about Neural Networks
  * U-Net: Convolutional Networks for Biomedical Image Segmentation => http://arxiv.org/abs/1505.04597
 
 ### Other
+ * Learning to See by Moving => http://arxiv.org/abs/1505.01596
+ * Network Autoencoders => http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf
  * Distilling the Knowledge in a Neural Network => https://arxiv.org/abs/1503.02531
  * Systematic evaluation of CNN advances on the ImageNet => http://arxiv.org/abs/1606.02228
  * Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis => http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.8494&rep=rep1&type=pdf
