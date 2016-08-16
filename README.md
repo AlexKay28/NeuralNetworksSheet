@@ -16,6 +16,7 @@ Cheat sheet with info about Neural Networks
  * U-Net: Convolutional Networks for Biomedical Image Segmentation => http://arxiv.org/abs/1505.04597
  * Multi-Scale Context Aggregation by Dilated Convolutions => https://arxiv.org/pdf/1511.07122v3.pdf
  * Conditional Random Fields as Recurrent Neural Networks => https://arxiv.org/abs/1502.03240
+ * ParseNet: Looking Wider to See Better => http://arxiv.org/abs/1506.04579
 
 ### Other
  * Learning to See by Moving => http://arxiv.org/abs/1505.01596
