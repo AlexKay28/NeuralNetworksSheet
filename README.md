@@ -19,6 +19,7 @@ Cheat sheet with info about Neural Networks
  * ParseNet: Looking Wider to See Better => http://arxiv.org/abs/1506.04579
 
 ### Other
+ * Adversarial examples in the physical world => https://arxiv.org/abs/1607.02533
  * Learning to See by Moving => http://arxiv.org/abs/1505.01596
  * Network Autoencoders => http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf
  * Distilling the Knowledge in a Neural Network => https://arxiv.org/abs/1503.02531
