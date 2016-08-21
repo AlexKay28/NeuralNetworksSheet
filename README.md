@@ -62,6 +62,7 @@ Cheat sheet with info about Neural Networks
 ### Kaggle
 
  * State Farm Distracted Driver Detection => https://www.kaggle.com/c/state-farm-distracted-driver-detection
+   * Winning solution => https://www.kaggle.com/c/state-farm-distracted-driver-detection/forums/t/22906/a-brief-summary
    * Summary of top models solutions => https://www.kaggle.com/c/state-farm-distracted-driver-detection/forums/t/22659/summary-of-methods-of-top-20-methods
    * Kaggle – наша экскурсия в царство оверфита => https://habrahabr.ru/post/307078/
  * Ultrasound Nerve Segmentation => https://www.kaggle.com/c/ultrasound-nerve-segmentation
