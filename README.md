@@ -67,6 +67,7 @@ Cheat sheet with info about Neural Networks
    * Kaggle – наша экскурсия в царство оверфита => https://habrahabr.ru/post/307078/
  * Ultrasound Nerve Segmentation => https://www.kaggle.com/c/ultrasound-nerve-segmentation
    * 17th place => http://beamandrew.github.io/deeplearning/2016/08/20/kaggle-segmentation.html
+   * 25th place => http://fhtagn.net/prog/2016/08/19/kaggle-uns.html
  * Yelp Restaurant Photo Classification => https://www.kaggle.com/c/yelp-restaurant-photo-classification
  * Grasp-and-Lift EEG Detection => https://www.kaggle.com/c/grasp-and-lift-eeg-detection
  * Diabetic Retinopathy Detection => https://www.kaggle.com/c/diabetic-retinopathy-detection
