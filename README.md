@@ -17,6 +17,7 @@ Cheat sheet with info about Neural Networks
  * Multi-Scale Context Aggregation by Dilated Convolutions => https://arxiv.org/pdf/1511.07122v3.pdf
  * Conditional Random Fields as Recurrent Neural Networks => https://arxiv.org/abs/1502.03240
  * ParseNet: Looking Wider to See Better => http://arxiv.org/abs/1506.04579
+ * Instance-aware Semantic Segmentation via Multi-task Network Cascades => http://arxiv.org/abs/1512.04412
 
 ### Other
  * Maxout Networks => https://arxiv.org/abs/1302.4389
