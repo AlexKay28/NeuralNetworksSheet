@@ -20,6 +20,7 @@ Cheat sheet with info about Neural Networks
  * Instance-aware Semantic Segmentation via Multi-task Network Cascades => http://arxiv.org/abs/1512.04412
 
 ### Other
+ * All you need is a good init => http://arxiv.org/abs/1511.06422
  * Relay Backpropagation for Effective Learning of Deep Convolutional Neural Networks => https://arxiv.org/pdf/1512.05830
  * Maxout Networks => https://arxiv.org/abs/1302.4389
  * Adversarial examples in the physical world => https://arxiv.org/abs/1607.02533
