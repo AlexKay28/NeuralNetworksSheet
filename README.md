@@ -20,6 +20,7 @@ Cheat sheet with info about Neural Networks
  * Instance-aware Semantic Segmentation via Multi-task Network Cascades => http://arxiv.org/abs/1512.04412
 
 ### Other
+ * Pixel Recurrent Neural Networks => https://arxiv.org/abs/1601.06759
  * Exploiting Cyclic Symmetry in Convolutional Neural Networks => http://arxiv.org/abs/1602.02660
  * All you need is a good init => http://arxiv.org/abs/1511.06422
  * Relay Backpropagation for Effective Learning of Deep Convolutional Neural Networks => https://arxiv.org/pdf/1512.05830
