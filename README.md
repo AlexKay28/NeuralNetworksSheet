@@ -79,6 +79,7 @@ Cheat sheet with info about Neural Networks
  * Grasp-and-Lift EEG Detection => https://www.kaggle.com/c/grasp-and-lift-eeg-detection
    * 1st place => http://blog.kaggle.com/2015/10/12/grasp-and-lift-eeg-winners-interview-1st-place-cat-dog/
    * 2nd place => http://blog.kaggle.com/2015/09/29/grasp-and-lift-eeg-detection-winners-interview-2nd-place-daheimao/
+   * 3rd place => http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/
  * Diabetic Retinopathy Detection => https://www.kaggle.com/c/diabetic-retinopathy-detection
 
 ### ImageNet
