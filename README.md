@@ -11,6 +11,8 @@ Cheat sheet with info about Neural Networks
  
 
 ## Papers
+### RNN
+ * Recurrent Convolutional Neural Network for Object Recognition => http://www.xlhu.cn/papers/Liang15-cvpr.pdf
 ### Segmentation
  * Fully Convolutional Networks for Semantic Segmentation => https://arxiv.org/abs/1411.4038
  * U-Net: Convolutional Networks for Biomedical Image Segmentation => http://arxiv.org/abs/1505.04597
@@ -75,6 +77,8 @@ Cheat sheet with info about Neural Networks
    * 25th place => http://fhtagn.net/prog/2016/08/19/kaggle-uns.html
  * Yelp Restaurant Photo Classification => https://www.kaggle.com/c/yelp-restaurant-photo-classification
  * Grasp-and-Lift EEG Detection => https://www.kaggle.com/c/grasp-and-lift-eeg-detection
+   * 1st place => http://blog.kaggle.com/2015/10/12/grasp-and-lift-eeg-winners-interview-1st-place-cat-dog/
+   * 2nd place => http://blog.kaggle.com/2015/09/29/grasp-and-lift-eeg-detection-winners-interview-2nd-place-daheimao/
  * Diabetic Retinopathy Detection => https://www.kaggle.com/c/diabetic-retinopathy-detection
 
 ### ImageNet
